@@ -1,2 +1,3 @@
 Hello ADSM
 update g1
+update on g2
